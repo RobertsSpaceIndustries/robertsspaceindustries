@@ -1,1 +1,1 @@
-<img src="Mac8299.jpg" alt="Macross 82-99">
+<img src="Cat.jpg" alt="Cat">
